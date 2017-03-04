@@ -1,0 +1,79 @@
+history
+  1  cd /etc
+    2  ls
+    3  cd yum.repos.d
+    4  ls
+    5  nano mongodb-org-3.4.repo
+    6  vim mongodb-org-3.4.repo
+    7  ls
+    8  nano
+    9  vim
+   10  vi
+   11  vi mongodb-org-3.4.repo
+   12  git
+   13  sudo yum install git-all
+   14  yum install git-all
+   15  sudo yum install git-all
+   16  cd
+   17  sudo yum install git-all
+   18  install curl-devel expat-devel gettext-devel openssl-devel zlib-devel
+   19  # yum install gcc perl-ExtUtils-MakeMaker
+   20  yum install gcc perl-ExtUtils-MakeMaker
+   21  cd /etc
+   22  ls
+   23  cd yum.repos.d
+   24  ls
+   25  rm mongodb-org-3.4.repo
+   26  ls
+   27  sudo yum install git-all
+   28  sudo apt-get install git-all
+   29  yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel
+   30   yum install gcc perl-ExtUtils-MakeMaker
+   31    cd /usr/src
+   32  .0
+   33  wget https://www.kernel.org/pub/software/scm/git/git-2.8.11.tar.gz
+   34  wget
+   35  sudo apt install wget
+   36  sudo apt-get install wget
+   37  yum install wget -y
+   38  wget https://www.kernel.org/pub/software/scm/git/git-2.8.11.tar.gz
+   39  wget https://www.kernel.org/pub/software/scm/git/git-2.8.2.tar.gz
+   40  tar xzf git-2.8.2.tar.gz
+   41  cd git-2.8.11
+   42  cd git-2.8.2
+   43  make prefix=/usr/local/git all
+   44  cd git-2.8.2
+   45  make prefix=/usr/local/git all
+   46  make prefix=/usr/local/git install
+   47  source /etc/bashrc
+   48  curl https://omnitruck.chef.io/install.sh | sudo bash -s -- -P chefdk -c stable -v 0.16.28
+   49  ls
+   50  cd
+   51  ks
+   52  ls
+   53  mkdir /chef-repo
+   54  ls
+   55  mkdir ~/chef-repo
+   56  ls
+   57  ls chef-repo
+   58  cd /etc
+   59  ls
+   60  cd yum.repos.d
+   61  ls
+   62  echo 1
+   63  echo 1 > mongodb-org-3.4.repo
+   64  ls
+   65  history
+   66  service mongod start
+   67  /var/log/mongodb/mongod.log
+   68  vi /var/log/mongodb/mongod.log
+   69  history
+   70  cd
+   71  ls
+   72  cd history > installMongo.txt
+   73  echo history > installMongo.txt
+   74  ls
+   75  vi installMongo.txt
+   76  history
+:wq!
+
